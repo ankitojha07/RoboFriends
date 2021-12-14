@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# RoboFriends
+
+A react App to find robot images.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
